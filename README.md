@@ -6,7 +6,7 @@ An upcoming software engineer who is passionate about CyberSec, R&A, and a wee b
 💼👩🏻‍💻🛠️💻
 <br> 
 <br>
-🔭 I’m a member of GSSoC 2026 starting May 15th, 2026 till August, 2026.
+🗂️ I’m a member of GSSoC 2026 starting May 15th, 2026 till August, 2026.
 <br> 
 <br>
 ☕ On the side I'm working on my first web dev project called as TWS_Website.
