@@ -1,9 +1,9 @@
-## Hi there👋, I'm Swastika! ⋆⁺🐻‍❄️₊❅
+## Greetings User, I'm Swastika.
 
-An upcoming software engineer who is passionate about CyberSec, R&A, and a wee bit of Web Dev. 💼👩🏻‍💻🛠️💻 
+An upcoming Software Engineer who is passionate about CyberSecurity and Web Development.
 <br> <br>
-🗂️ I’m a member of GSSoC 2026 starting May 15th, 2026 till August, 2026.<br>
-🌱 I’m currently learning JAVA as my core language.<br>
+💼 Been a member of GSSoC 2026. <br>
+💻 Learning JAVA as my core language.<br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
